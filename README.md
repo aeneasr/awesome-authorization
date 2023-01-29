@@ -81,6 +81,7 @@
 - [Google Zanzibar](https://research.google/pubs/pub48190/) - Google's consistent, global authorization system.
   - [Airbnb Himeji](https://medium.com/airbnb-engineering/himeji-a-scalable-centralized-system-for-authorization-at-airbnb-341664924574) - Based on Zanzibar.
   - [Carta AuthZ](https://medium.com/building-carta/authz-cartas-highly-scalable-permissions-system-782a7f2c840f) - Also based on Zanzibar.
+  - [Ory Keto](https://github.com/ory/keto) - Open Source implementation of Google Zanzibar.
 
 ## Videos & Talks
 - [Hashicorp - Microservice Authentication and Authorization (2019)](https://www.youtube.com/watch?v=ZjPF8yZ83Wo)
